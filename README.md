@@ -1,7 +1,6 @@
 Marko One is a typeface designed for children's literature. 
 The initial idea was to create a typeface-companion for 
-<a href="http://www.cyreal.org/2011/12/the-making-of-marko-horobchik/">Marko the Sparrow</a> 
-- a cartoon character by illustrator and type designer 
+<a href="http://www.cyreal.org/2011/12/the-making-of-marko-horobchik/">Marko the Sparrow</a> - a cartoon character by illustrator and type designer 
 Zhenya Spizhovyi. 
 
 ![Marko One](http://www.cyreal.org/wp-content/uploads/2011/12/promo2.jpg)
