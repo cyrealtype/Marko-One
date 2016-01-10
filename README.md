@@ -4,6 +4,8 @@ The initial idea was to create a typeface-companion for
 - a cartoon character by illustrator and type designer 
 Zhenya Spizhovyi. 
 
+![Marko One](http://www.cyreal.org/wp-content/uploads/2011/12/promo2.jpg)
+
 Marko One is simple and smooth, has special inner tension 
 and eye-catchy detailing. The letterforms are based on 
 calligraphy and sketches - this is what makes Marko lively, 
