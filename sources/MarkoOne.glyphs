@@ -267,7 +267,7 @@ name = A;
 },
 {
 name = acute.case;
-transform = "{1, 0, 0, 1, 459, 0}";
+transform = "{1, 0, 0, 1, 438, 0}";
 }
 );
 layerId = UUID0;
@@ -305,7 +305,7 @@ name = A;
 },
 {
 name = dieresis.case;
-transform = "{1, 0, 0, 1, 279, 0}";
+transform = "{1, 0, 0, 1, 299, 0}";
 }
 );
 layerId = UUID0;
@@ -324,7 +324,7 @@ name = A;
 },
 {
 name = grave.case;
-transform = "{1, 0, 0, 1, 289, 0}";
+transform = "{1, 0, 0, 1, 288, 0}";
 }
 );
 layerId = UUID0;
@@ -1044,7 +1044,7 @@ name = E;
 },
 {
 name = acute.case;
-transform = "{1, 0, 0, 1, 387, 0}";
+transform = "{1, 0, 0, 1, 303, 0}";
 }
 );
 layerId = UUID0;
@@ -1063,7 +1063,7 @@ name = E;
 },
 {
 name = circumflex.case;
-transform = "{1, 0, 0, 1, 238, 0}";
+transform = "{1, 0, 0, 1, 160, 0}";
 }
 );
 layerId = UUID0;
@@ -1082,7 +1082,7 @@ name = E;
 },
 {
 name = dieresis.case;
-transform = "{1, 0, 0, 1, 184, 0}";
+transform = "{1, 0, 0, 1, 164, 0}";
 }
 );
 layerId = UUID0;
@@ -1101,7 +1101,7 @@ name = E;
 },
 {
 name = grave.case;
-transform = "{1, 0, 0, 1, 154, 0}";
+transform = "{1, 0, 0, 1, 153, 0}";
 }
 );
 layerId = UUID0;
@@ -1415,7 +1415,7 @@ name = I;
 },
 {
 name = acute.case;
-transform = "{1, 0, 0, 1, 92, 0}";
+transform = "{1, 0, 0, 1, 31, 0}";
 }
 );
 layerId = UUID0;
@@ -1434,7 +1434,7 @@ name = I;
 },
 {
 name = circumflex.case;
-transform = "{1, 0, 0, 1, -113, 0}";
+transform = "{1, 0, 0, 1, -112, 0}";
 }
 );
 layerId = UUID0;
@@ -1453,7 +1453,7 @@ name = I;
 },
 {
 name = dieresis.case;
-transform = "{1, 0, 0, 1, -115, 0}";
+transform = "{1, 0, 0, 1, -108, 0}";
 }
 );
 layerId = UUID0;
@@ -1472,7 +1472,7 @@ name = I;
 },
 {
 name = grave.case;
-transform = "{1, 0, 0, 1, -180, 0}";
+transform = "{1, 0, 0, 1, -119, 0}";
 }
 );
 layerId = UUID0;
@@ -1943,7 +1943,7 @@ name = O;
 },
 {
 name = acute.case;
-transform = "{1, 0, 0, 1, 565, 0}";
+transform = "{1, 0, 0, 1, 524, 0}";
 }
 );
 layerId = UUID0;
@@ -2000,7 +2000,7 @@ name = O;
 },
 {
 name = grave.case;
-transform = "{1, 0, 0, 1, 313, 0}";
+transform = "{1, 0, 0, 1, 374, 0}";
 }
 );
 layerId = UUID0;
@@ -2756,7 +2756,7 @@ name = U;
 },
 {
 name = acute.case;
-transform = "{1, 0, 0, 1, 461, 0}";
+transform = "{1, 0, 0, 1, 420, 0}";
 }
 );
 layerId = UUID0;
@@ -2775,7 +2775,7 @@ name = U;
 },
 {
 name = circumflex.case;
-transform = "{1, 0, 0, 1, 297, 0}";
+transform = "{1, 0, 0, 1, 277, 0}";
 }
 );
 layerId = UUID0;
@@ -2813,7 +2813,7 @@ name = U;
 },
 {
 name = grave.case;
-transform = "{1, 0, 0, 1, 252, 0}";
+transform = "{1, 0, 0, 1, 270, 0}";
 }
 );
 layerId = UUID0;
@@ -3338,7 +3338,7 @@ name = a;
 },
 {
 name = dieresis;
-transform = "{1, 0, 0, 1, 195, 0}";
+transform = "{1, 0, 0, 1, 194, 0}";
 }
 );
 layerId = UUID0;
@@ -3357,7 +3357,7 @@ name = a;
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 197, 0}";
+transform = "{1, 0, 0, 1, 196, 0}";
 }
 );
 layerId = UUID0;
@@ -3989,7 +3989,7 @@ name = e;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 463, 0}";
+transform = "{1, 0, 0, 1, 319, 0}";
 }
 );
 layerId = UUID0;
@@ -4027,7 +4027,7 @@ name = e;
 },
 {
 name = dieresis;
-transform = "{1, 0, 0, 1, 195, 0}";
+transform = "{1, 0, 0, 1, 153, 0}";
 }
 );
 layerId = UUID0;
@@ -4046,7 +4046,7 @@ name = e;
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 135, 0}";
+transform = "{1, 0, 0, 1, 155, 0}";
 }
 );
 layerId = UUID0;
@@ -5075,7 +5075,7 @@ name = o;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 459, 0}";
+transform = "{1, 0, 0, 1, 397, 0}";
 }
 );
 layerId = UUID0;
@@ -5132,7 +5132,7 @@ name = o;
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 213, 0}";
+transform = "{1, 0, 0, 1, 233, 0}";
 }
 );
 layerId = UUID0;
@@ -5966,7 +5966,7 @@ name = u;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 432, 0}";
+transform = "{1, 0, 0, 1, 370, 0}";
 }
 );
 layerId = UUID0;
@@ -6004,7 +6004,7 @@ name = u;
 },
 {
 name = dieresis;
-transform = "{1, 0, 0, 1, 225, 0}";
+transform = "{1, 0, 0, 1, 204, 0}";
 }
 );
 layerId = UUID0;
@@ -6023,7 +6023,7 @@ name = u;
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 186, 0}";
+transform = "{1, 0, 0, 1, 206, 0}";
 }
 );
 layerId = UUID0;
@@ -6323,7 +6323,7 @@ name = y;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 434, 0}";
+transform = "{1, 0, 0, 1, 393, 0}";
 }
 );
 layerId = UUID0;
@@ -6342,7 +6342,7 @@ name = y;
 },
 {
 name = dieresis;
-transform = "{1, 0, 0, 1, 248, 0}";
+transform = "{1, 0, 0, 1, 227, 0}";
 }
 );
 layerId = UUID0;
@@ -8367,6 +8367,31 @@ width = 629;
 }
 );
 unicode = 002C;
+},
+{
+glyphname = ellipsis;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 500, 0}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 1000, 0}";
+},
+{
+name = period;
+}
+);
+layerId = UUID0;
+width = 1549;
+}
+);
+leftMetricsKey = period;
+rightMetricsKey = period;
+unicode = 2026;
 },
 {
 glyphname = exclam;
@@ -11066,6 +11091,21 @@ width = 1307;
 }
 );
 unicode = 00A5;
+},
+{
+glyphname = divisionslash;
+layers = (
+{
+components = (
+{
+name = slash;
+}
+);
+layerId = UUID0;
+width = 762;
+}
+);
+unicode = 2215;
 },
 {
 glyphname = plus;
