@@ -7,7 +7,7 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 }
 );
-date = "2011-11-28 19:37:45 +0000";
+date = "2017-11-25 19:00:59 +0000";
 designer = "Eugene Spizhovy";
 designerURL = "http://behance.net/spizh";
 disablesAutomaticAlignment = 1;
@@ -13746,5 +13746,5 @@ manufacturer = Cyreal;
 manufacturerURL = "http://cyreal.org";
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 100;
 }
