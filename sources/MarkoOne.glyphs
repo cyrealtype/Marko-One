@@ -7,7 +7,7 @@ code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2011, Cyreal (www.cyreal.org)";
+copyright = "Copyright 2011 The Marko One Project Authors (https://github.com/cyrealtype/Marko-One)";
 customParameters = (
 {
 name = licenseURL;
