@@ -32,27 +32,30 @@ ranges: Latin-1
 To contribute to the project contact Alexei Vanyashin at 
 a (at) cyreal.org
 
-There are three .VFB Source files:
-1. MarkoOne-Regular.vfb (Original Source file with contour overlaps)
-2. MarkoOne-Regular-OTF.vfb (Merged and optimized file)
-3. MarkoOne-Regular-TTF.vfb (Manual Hinting in 9-54 range applied)
+Sources files:
+sources/MarkoOne.glyphs
 
 ChangeLog
 
-24 November 2011 (Zhenya Spizhovyi) Marko One v. 1.000
-- Completed initial release in VBF format, Latin-1 encoding
+25 November 2017 (Alexei Vanyashin) Marko One v. 1.100
+- Moved sources to .glyphs 
+— Added missing Latin Core glyphs
 
 1 December 2011 (Alexei Vanyashin) Marko One v. 1.003
 - Made design and spacing adjustments
 - Mastered file from FontLab into ttf
 
+24 November 2011 (Zhenya Spizhovyi) Marko One v. 1.000
+- Completed initial release in VBF format, Latin-1 encoding
+
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
 This list is in alphabetical order.
 
-N: Zhenya Spizhovyi
-E: artkozel@ukr.net
-D: Designer
+N: Eugene Spizhovy
+E: spizhovy@gmail.com
+W: http://behance.net/spizh
+D: Original Designer
 
 N: Alexei Vanyashin
 E: a (at) cyreal.org
